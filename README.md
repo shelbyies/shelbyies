@@ -9,11 +9,11 @@ https://www.kaskus.co.id/@shelbyies
 https://www.quora.com/profile/Shelbyies
 https://id.quora.com/profile/Shelbyies
 https://medium.com/@shelbyies
-instagram : https://www.instagram.com/shelbyiescom/
-facebook : https://www.facebook.com/Shelbyies-106820502050270
-pinterest : https://pinterest.com/shelbyiescom/
-twitter : https://twitter.com/shelbyiescom
-telegram : https://t.me/s/shelbyiescom
+https://www.instagram.com/shelbyiescom/
+https://www.facebook.com/Shelbyies-106820502050270
+https://pinterest.com/shelbyiescom/
+https://twitter.com/shelbyiescom
+https://t.me/s/shelbyiescom
 
 <!--
 **shelbyies/shelbyies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
