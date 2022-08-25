@@ -1,4 +1,4 @@
-### shelbyies
+## shelbyies
 
 shelbyies is a media blog covering information on Games, Degrees, Travel, Health, Finance, Hosting, Journals, Education, Biography, Insurance (and many more to come) can be found here.
 
